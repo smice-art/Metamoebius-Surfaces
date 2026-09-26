@@ -11,25 +11,6 @@ A Blender add-on that generates **one-sided (non-orientable) spanning surfaces**
 # Screen Shot
 ![Banner Image](images/screen.jpg)
 
----
-
-## Table of Contents
-
-- [How it works](#how-it-works)
-- [Installation](#installation)
-- [Quick start](#quick-start)
-- [Presets](#presets)
-- [Panel reference](#panel-reference)
-  - [Top bar](#top-bar)
-  - [Diagram](#diagram)
-  - [Surface](#surface)
-  - [Output](#output)
-- [Reading the shape](#reading-the-shape)
-- [Tips & troubleshooting](#tips--troubleshooting)
-- [Background](#background)
-
----
-
 ## How it works
 
 The construction is the classic **checkerboard (Tait) surface** of a knot or link diagram, extended with a few artistic controls:
