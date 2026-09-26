@@ -47,10 +47,10 @@ The Add-on is easy to understand. All adjustment are placed in a N-Panel Slider 
 ## Views
 | Text | Preview | Preview |
 | :--- | :--- | :--- |
-| Möbius Example | <img src="images/001.jpg" width="250"> |<img src="images/002.jpg" width="250"> |
+| Möbius Example | <img src="images/001.jpg" width="250"> |<img src="images/012.jpg" width="250"> |
 | Möbius Example | <img src="images/003.jpg" width="250"> |<img src="images/004.jpg" width="250"> |
 | Möbius Example | <img src="images/005.jpg" width="250"> |<img src="images/006.jpg" width="250"> |
-| Möbius Example | <img src="images/007.png" width="250"> |<img src="images/008.jpg" width="250"> |
+| Möbius Example | <img src="images/007.jpg" width="250"> |<img src="images/008.jpg" width="250"> |
 | Möbius Example | <img src="images/009.jpg" width="250"> |<img src="images/010.jpg" width="250"> |
 | Möbius Example | <img src="images/011.jpg" width="250"> |<img src="images/012.jpg" width="250"> |
 
