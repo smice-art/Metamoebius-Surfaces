@@ -1,12 +1,15 @@
 <p align="center">
-  <img src="images/addon.jpg" alt="Calabi Yau width="100%">
+  <img src="images/addon.jpg" alt="Metamoebius width="100%">
 </p>
 
-# Metamoebius Surfaces (Multi Möbius)
+# Metamoebius Surfaces (Multi Möbius Generator)
 
 A Blender add-on that generates **one-sided (non-orientable) spanning surfaces** from symmetric knot and link diagrams — Möbius bands, and a large family of related "checkerboard surfaces" with holes, twisted bands, and woven membranes.
 
 <p align="center"><i>N-panel generator · live preview · 12 built-in presets · plane or spherical canvas</i></p>
+
+# Screen Shot
+![Banner Image](images/screen.jpg)
 
 ---
 
