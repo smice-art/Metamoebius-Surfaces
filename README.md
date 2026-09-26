@@ -2,6 +2,9 @@
   <img src="images/addon.jpg" alt="Metamoebius width="100%">
 </p>
 
+# Info ⚠️
+Please excuse me regarding the correct mathematical terms; I am unfortunately not a mathematician, so they are sometimes certainly not correct. 
+
 # Metamoebius Surfaces (Multi Möbius Generator)
 
 A Blender add-on that generates **one-sided (non-orientable) spanning surfaces** from symmetric knot and link diagrams — Möbius bands, and a large family of related "checkerboard surfaces" with holes, twisted bands, and woven membranes.
