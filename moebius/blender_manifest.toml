@@ -1,0 +1,16 @@
+schema_version = "1.0.0"
+
+id = "moebius_generator"
+version = "1.0.0"
+name = "Metamobius Surfaces (Checkerboard Surface Generator)"
+vendor = "SMICE.ART"
+tagline = "Metamobius Surfaces Generator"
+description = "One-sided (non-orientable) spanning surfaces built from symmetric knot diagrams"
+maintainer = "Claudio Wabner <ice.smice@gmail.com>"
+type = "add-on"
+website = "https://superhivemarket.com/creators/smice"
+blender_version_min = "4.5.0"
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+platforms = ["windows-x64", "macos-arm64", "linux-x64", "windows-arm64", "macos-x64"]
