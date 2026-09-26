@@ -1,4 +1,8 @@
-# Metamoebius Surfaces
+<p align="center">
+  <img src="images/addon.jpg" alt="Calabi Yau width="100%">
+</p>
+
+# Metamoebius Surfaces (Multi Möbius)
 
 A Blender add-on that generates **one-sided (non-orientable) spanning surfaces** from symmetric knot and link diagrams — Möbius bands, and a large family of related "checkerboard surfaces" with holes, twisted bands, and woven membranes.
 
